@@ -1,4 +1,4 @@
-# KritiGame
+# KritiGame_D
 # growAsap
 
 The game is themed around growth. The game rules are simple, the sapling grows on being fed sun, fertiliser and water but the catch is you shouldn't overfeed it. Confident to make it to the other side, huh ?
