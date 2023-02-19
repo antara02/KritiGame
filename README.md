@@ -3,6 +3,8 @@
 
 The game is themed around growth. The game rules are simple, the sapling grows on being fed sun, fertiliser and water but the catch is you shouldn't overfeed it. Confident to make it to the other side, huh ?
 Obsatcles are waiting for you. 
+Controls: Space bar-Jump
+          right and left arrow keys-movement
 Cya, on the other side.
 Happy Growing!!!
 
