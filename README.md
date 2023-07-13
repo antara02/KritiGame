@@ -31,7 +31,9 @@ Technologies Used:
 - Unity Input System: Input handling system that enables player interactions with the game environment.
 - GitHub: Version control platform to manage the source code, track changes, and collaborate with others.
 
-  Features:
+  
+
+ Features:
 - Interactive sapling growth mechanism based on resource management (sunlight, fertilizers, water).
 - Challenging obstacles that hinder the sapling's growth, such as spikes and weather conditions.
 - Strategic decision-making for balancing resource allocation and avoiding overfeeding.
