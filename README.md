@@ -3,7 +3,8 @@
 
 You can download the game here: https://drive.google.com/drive/folders/1mCryP5DRPKqsYvGvmxjIY4yBQaSbQDFY
 
-GrowASap is a captivating game that challenges players to nurture a sapling while overcoming obstacles. The goal is to help the sapling grow by providing sunlight, fertilizers, and water without overfeeding it. As players progress, they face new challenges and must make strategic decisions to ensure optimal growth.
+GrowASap is a captivating 2D Platformer game that challenges players to nurture a sapling while overcoming obstacles. The goal is to help the sapling grow by providing sunlight, fertilizers, and water without overfeeding it. As players progress, they face new challenges and must make strategic decisions to ensure optimal growth.
+
 The game is themed around growth. The game rules are simple, the sapling grows on being fed sun, fertiliser and water but the catch is you shouldn't overfeed it. Confident to make it to the other side, huh ?
 Obsatcles are waiting for you. 
 Controls: Space bar-Jump
